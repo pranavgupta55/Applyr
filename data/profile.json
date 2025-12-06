@@ -1,0 +1,91 @@
+{
+  "name": "Pranav Gupta",
+  "email": "pranavgupta5581@gmail.com",
+  "email_alt": "pranav@seas.upenn.edu",
+  "phone": "(XXX) XXX-XXXX",
+  "address_line1": "Philadelphia, PA",
+  "address_line2": "Dallas, TX",
+  "linkedin": "linkedin.com/in/pgupta55",
+  "github": "github.com/pranavgupta55",
+  "website": "pranavgupta.co",
+
+  "education": [
+    {
+      "institution": "University of Pennsylvania",
+      "location": "Philadelphia, PA",
+      "degrees": ["MSE in Robotics", "BSE in Artificial Intelligence"],
+      "minor": "Data Science",
+      "graduation_dates": ["May 2029", "May 2026"],
+      "coursework": ["Mathematical Foundations of CS", "Calculus III", "AI Lab"],
+      "clubs": ["PennAiR Software Division", "AI@Penn Research & Development", "AIBC Development Division"]
+    },
+    {
+      "institution": "School of Science and Engineering",
+      "location": "Dallas, TX",
+      "level": "High School",
+      "gpa": 4.58,
+      "sat": 1580,
+      "honors": ["National Merit Scholarship Finalist", "3x UIL State Champion (Math & Science)"]
+    }
+  ],
+
+  "skills": {
+    "languages": ["Python", "C++", "OCaml", "Java", "JavaScript", "SQL", "HTML/CSS"],
+    "frameworks": ["React", "FastAPI", "PyTorch", "Pandas", "LangChain", "Node.js", "Tailwind CSS", "TensorFlow/Keras", "ROS"],
+    "tools": ["Git", "Docker", "PostgreSQL", "Supabase", "OpenAI API", "Vercel", "Fusion 360", "Onshape", "SolidWorks"],
+    "domains": ["Computer Vision", "Full-stack LLM Integration", "RAG", "Reinforcement Learning (PPO/DQN)", "CNNs", "LSTMs"]
+  },
+
+  "experience": [
+    {
+      "title": "Autonomous Driving Research Intern",
+      "organization": "University of Texas at Dallas",
+      "dates": "June–Sep 2024",
+      "type": "Research",
+      "highlights": [
+        "Authored and published ML research paper in Curieux Academic Journal",
+        "Reduced training times from 36 GPU hours to 24 GPU hours while maintaining accuracy",
+        "Worked with Python, TensorFlow, TensorBoard, Pandas, nuScenes dataset (800k datapoints)"
+      ]
+    },
+    {
+      "title": "Co-Founder & Co-Captain",
+      "organization": "National Solar Car Challenge",
+      "dates": "Aug 2022 – Present",
+      "type": "Leadership",
+      "highlights": [
+        "Led 9-person team in design and manufacturing",
+        "Raised $6,500+ in funding; secured 17+ sponsors",
+        "Registered as 501(c)(3) non-profit",
+        "Built one-seater solar car (45 mph top speed)",
+        "Placed 4th Nationally in 2025 (second year as a team)",
+        "CAD modeled components in Fusion 360 with stress analysis"
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Recall AI",
+      "description": "Full-stack AI study platform",
+      "tech": ["FastAPI", "GPT-4o", "LangChain", "PostgreSQL", "RLS"],
+      "dates": "Jul–Aug 2025"
+    },
+    {
+      "name": "Python Coding Projects",
+      "description": "100+ projects including physics engines and simulations",
+      "dates": "Jun 2021 – Present"
+    },
+    {
+      "name": "Drone Control RL Agent",
+      "description": "PPO agent for drone control in custom 2D physics simulator",
+      "tech": ["PyTorch", "Reinforcement Learning"]
+    }
+  ],
+
+  "cover_letter_technical_paragraph": "Two accomplishments that best illustrate how I will add value at your company are: (1) my work as an Autonomous Driving Research Intern, where I led data-pipeline and model-training work that produced a first-author publication and reduced training time on large models from 36 GPU hours to 24 GPU hours while preserving accuracy; and (2) co-founding and co-captaining my high school's Solar Car team, where I led a nine-person design and manufacturing effort (raising $6,500+, securing 17+ sponsors), CAD-modeled and validated chassis components in Fusion 360, and helped the team place 4th nationally. Those experiences show my ability to ship technically sophisticated software and systems, optimize performance under tight constraints and short deadlines, and lead multidisciplinary teams through hands-on engineering work.",
+
+  "cover_letter_skills_paragraph": "Technically, I contribute value across the stack. I've built full-stack AI systems (FastAPI backends + GPT-based assistants, LangChain integrations, PostgreSQL row-level security), authored many Python projects and PyTorch models (including RL for drone control), and used React/JavaScript for front-end UIs. I'm comfortable with debugging, performance optimization, unit testing, and producing clear system documentation and diagrams. I learn quickly, collaborate effectively, and thrive in environments where requirements evolve rapidly.",
+
+  "cover_letter_closing": "I am available for a full-time, on-site internship for the 12+ consecutive week period beginning January 2026 or March 2026, and I would welcome the chance to discuss how my technical background and hands-on leadership can support your software teams."
+}

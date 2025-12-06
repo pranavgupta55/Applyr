@@ -1,0 +1,13 @@
+{
+  "Tell me about yourself": "I'm a UPenn student pursuing an MSE in Robotics and BSE in Artificial Intelligence. I've published ML research on autonomous driving, where I optimized training pipelines to reduce GPU time from 36 to 24 hours. I also co-founded a solar car team, leading fundraising ($6.5k+) and CAD design work that helped us place 4th nationally. I'm passionate about building intelligent systems and enjoy tackling complex technical challenges.",
+
+  "What is your biggest weakness?": "Early on, I tended to over-engineer solutions—building abstractions before I needed them. During the solar car project, I learned to start with the simplest working version and iterate. Now I focus on shipping working prototypes quickly, then refining based on real feedback.",
+
+  "Tell me about a time you failed": "During the 2024 solar car race, our battery management system failed during testing. I had designed the circuit but hadn't accounted for heat dissipation under load. We had 48 hours to redesign. I worked with the team to add cooling fans and redesign the enclosure in Fusion 360. We competed successfully, but I learned to always test systems under realistic conditions.",
+
+  "Why do you want to work here?": "[This will be customized by the AI for each company]",
+
+  "Describe a time you worked in a team": "As co-captain of the solar car team, I led a 9-person group through design and manufacturing. We had members with varying skill levels, so I organized CAD workshops to bring everyone up to speed on Fusion 360. By delegating tasks based on strengths and maintaining clear communication through weekly stand-ups, we successfully built and raced a fully functional vehicle.",
+
+  "What are your salary expectations?": "I'm primarily focused on finding a role where I can learn and contribute meaningfully. For an internship, I'm flexible and would appreciate a competitive offer aligned with industry standards for someone with my background."
+}
